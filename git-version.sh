@@ -6,4 +6,6 @@ yum install git -y
 
 git version
 
-cd .
+cd ..
+
+ls
