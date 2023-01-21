@@ -1,3 +1,9 @@
 #!/bin/bash
 
-echo 'hola'
+yum update -y
+
+yum install git -y
+
+git version
+
+cd .
